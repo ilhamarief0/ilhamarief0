@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-## I'm Rahul Dhanola.
+## I'm Ilham Arief AKA Mean Hills.
 
 ### 💻 &nbsp;About Me 
 
@@ -214,15 +214,3 @@
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-
-
-
-
-------
-
-[Rahul Dhanola](https://github.com/DHANOLA)
-
-Last Edited on: 09/09/2021
-
-
-------
