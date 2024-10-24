@@ -7,7 +7,8 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Studying Computer Science & Engineering at University of Petroleum & Energy Studies Dehradun.
+- 🎓 &nbsp; Studying Computer Science at Halu Oleo University
+- 🏢 &nbsp; Working at Technos Studio - IT Consultant Based On Kendari 
 
 
 <br>
@@ -95,7 +96,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ilhamarief0&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamarief0&theme=dark&hide_border=true" />
 
 
   
@@ -134,7 +135,7 @@
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DHANOLA&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=ilhamarief0&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
