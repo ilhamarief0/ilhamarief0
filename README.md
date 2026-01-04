@@ -29,9 +29,9 @@
   ### 🏆 Achievements & Activity
 
   <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=ilhamarief0&theme=radical&no-frame=true&margin-w=15&column=7" alt="Ilham's Trophies" />
-    </a>
+    </a> -->
     <br/><br/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhamarief0&bg_color=1a1b27&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Activity Graph" />
   </div>
