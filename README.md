@@ -26,7 +26,7 @@
 
   <br>
 
-  ### 🏆 Achievements & Activity
+<!--  ### 🏆 Achievements & Activity -->
 
   <div align="center">
     <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
