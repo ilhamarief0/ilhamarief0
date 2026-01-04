@@ -14,7 +14,6 @@
 
   Hi! I'm **Ilham Arief**, an enthusiastic developer specializing in **Web Development** and **DevOps**. I love building scalable systems and automating infrastructure.
 
-  - 💼 Currently working at **[@technosstudio](https://github.com/technosstudio)**
   - 🌱 Exploring **Advanced Web Stack & DevOps pipelines**
   - 🛠️ Interested in **Server Management, CI/CD, and Network Security**
   - 💬 Ask me about **Laravel, Docker, Linux, or Networking**? Let's connect!
