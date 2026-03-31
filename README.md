@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a developer based in **Batam, Indonesia**, focused on building clean, reliable web applications and managing the infrastructure behind them. I enjoy the full lifecycle — from writing backend logic to containerizing and deploying production systems.
+I'm a developer based in **Kendari, Indonesia**, focused on building clean, reliable web applications and managing the infrastructure behind them. I enjoy the full lifecycle — from writing backend logic to containerizing and deploying production systems.
 
 - 🔭 Currently working on **containerized Laravel applications** with Docker + PostgreSQL + Redis
 - 🌱 Deepening expertise in **DevOps pipelines, server hardening, and CI/CD automation**
