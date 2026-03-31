@@ -50,14 +50,6 @@ I'm a developer based in **Kendari, Indonesia**, focused on building clean, reli
 ## GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ilhamarief0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamarief0&layout=compact&hide_border=true&theme=react&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=ilhamarief0&theme=react&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=8b949e" alt="GitHub Streak" />
 </div>
 
