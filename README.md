@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a developer based in **Kendari, Indonesia**, focused on building clean, reliable web applications and managing the infrastructure behind them. I enjoy the full lifecycle — from writing backend logic to containerizing and deploying production systems.
+I'm a developer based in **Batam, Indonesia**, focused on building clean, reliable web applications and managing the infrastructure behind them. I enjoy the full lifecycle — from writing backend logic to containerizing and deploying production systems.
 
 - 🔭 Currently working on **containerized Laravel applications** with Docker + PostgreSQL + Redis
 - 🌱 Deepening expertise in **DevOps pipelines, server hardening, and CI/CD automation**
@@ -51,14 +51,18 @@ I'm a developer based in **Kendari, Indonesia**, focused on building clean, reli
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ilhamarief0&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff&title_color=0e75b6&icon_color=0e75b6&text_color=333333" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamarief0&layout=compact&hide_border=true&theme=default&bg_color=ffffff&title_color=0e75b6&text_color=333333" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ilhamarief0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&ring_color=38bdf8" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamarief0&layout=compact&hide_border=true&theme=react&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhamarief0&bg_color=ffffff&color=0e75b6&line=0e75b6&point=333333&hide_border=true&area=true&area_color=dbeafe" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=ilhamarief0&theme=react&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38bdf8&sideLabels=38bdf8&dates=8b949e" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhamarief0&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true&area=true&area_color=1e3a5f" alt="Contribution Graph" />
 </div>
 
 ---
