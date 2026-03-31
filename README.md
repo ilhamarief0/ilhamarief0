@@ -1,51 +1,68 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+There!+I'm+Ilham+Arief;Web+Developer+%26+DevOps;Building+Modern+Solutions" alt="Typing SVG" />
+# Ilham Arief
 
-  <p align="center">
-    <a href="https://github.com/ilhamarief0">
-      <img src="https://komarev.com/ghpvc/?username=ilhamarief0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-    </a>
-  </p>
+**Web Developer · DevOps Enthusiast**
 
-  ---
+[![Email](https://img.shields.io/badge/meanhills019%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:meanhills019@gmail.com)
+[![Instagram](https://img.shields.io/badge/@ilhamarief__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ilhamarief__)
+[![GitHub](https://img.shields.io/badge/ilhamarief0-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ilhamarief0)
+![Profile Views](https://komarev.com/ghpvc/?username=ilhamarief0&style=flat-square&color=0e75b6&label=visitors)
 
-  ### 🚀 About Me
+</div>
 
-  Hi! I'm **Ilham Arief**, an enthusiastic developer specializing in **Web Development** and **DevOps**. I love building scalable systems and automating infrastructure.
+---
 
-  - 🌱 Exploring **Advanced Web Stack & DevOps pipelines**
-  - 🛠️ Interested in **Server Management, CI/CD, and Network Security**
-  - 💬 Ask me about **Laravel, Docker, Linux, or Networking**? Let's connect!
+## About
 
-  ---
+I'm a developer based in **Kendari, Indonesia**, focused on building clean, reliable web applications and managing the infrastructure behind them. I enjoy the full lifecycle — from writing backend logic to containerizing and deploying production systems.
 
-  ### 🛠️ Tech Stack & Tools
+- 🔭 Currently working on **containerized Laravel applications** with Docker + PostgreSQL + Redis
+- 🌱 Deepening expertise in **DevOps pipelines, server hardening, and CI/CD automation**
+- 💬 Open to talk about **Laravel, Docker, Linux server management, or web architecture**
 
-  <img src="https://skillicons.dev/icons?i=html,css,php,laravel,js,bootstrap,tailwind,mysql,postgres,redis,docker,linux,nginx,git,githubactions,vscode&perline=8&theme=dark" />
+---
 
-  <br>
+## Tech Stack
 
-<!--  ### 🏆 Achievements & Activity -->
+### Backend & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-  <div align="center">
-    <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=ilhamarief0&theme=radical&no-frame=true&margin-w=15&column=7" alt="Ilham's Trophies" />
-    </a> -->
-    <br/><br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhamarief0&bg_color=1a1b27&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-  </div>
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-  ---
+### Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-  <div align="center">
-    <h3>📫 Connect with Me</h3>
-    <a href="mailto:meanhills019@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://instagram.com/ilhamarief__">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </div>
+---
 
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ilhamarief0&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=ffffff&title_color=0e75b6&icon_color=0e75b6&text_color=333333" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamarief0&layout=compact&hide_border=true&theme=default&bg_color=ffffff&title_color=0e75b6&text_color=333333" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhamarief0&bg_color=ffffff&color=0e75b6&line=0e75b6&point=333333&hide_border=true&area=true&area_color=dbeafe" alt="Contribution Graph" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Let's build something great together.</sub>
 </div>
